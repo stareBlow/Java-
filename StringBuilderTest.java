@@ -17,8 +17,5 @@ public class StringBuilderTest {
         System.out.println("反转：" + sc);
         System.out.println(sc.length());
         System.out.println(sc.capacity());
-
-
-
     }
 }
